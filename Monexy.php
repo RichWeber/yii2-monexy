@@ -98,7 +98,7 @@ class Monexy
      * Адреса API-сервера
      * @var string
      */
-    private $_url = 'https://monexy.yii/api/server';
+    private $_url = 'https://www.monexy.ua/api/server';
 
     /**
      * Номер запиту

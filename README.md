@@ -37,7 +37,7 @@ php composer.phar require richweber/yii2-monexy "*"
 ],
 ```
 
-**Отримання балансу свої гаманців:**
+**Отримання балансу своїх гаманців:**
 
 ```php
 Yii::$app->monexy->balance();
